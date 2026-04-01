@@ -88,3 +88,8 @@ div#main-nav > div.link {
     padding: 0%;
     margin: 0%;
 }
+
+h1.homework {
+    text-align: center;
+    color: darkslategray;
+}
