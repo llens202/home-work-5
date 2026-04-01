@@ -83,3 +83,8 @@ div.highlight {
 div#main-nav > div.link {
     color: darkmagenta;
 }
+
+* {
+    padding: 0%;
+    margin: 0%;
+}
